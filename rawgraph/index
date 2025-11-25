@@ -6,6 +6,8 @@
   <title>JS Bin</title>
 </head>
 <body>
-<object data="ivankimITBA.github.io/infovis/rawgraph/sunburst.svg>"
+  <object data="ivankimitba.github.io/infovis/rawgraph/sunburst.svg"
+          type="image/svg+xml">
+  </object>
 </body>
 </html>
